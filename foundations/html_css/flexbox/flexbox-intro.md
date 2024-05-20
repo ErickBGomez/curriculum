@@ -1,3 +1,11 @@
+### Personala introduction
+
+Hello this is ErickBGomez and I'm doing some changes to this part of flexbox introduction lesson!
+
+I selected this very topic in specific because it's one of my favorite ones related to web design
+
+With nothing more to say, I really like flexbox!
+
 ### Introduction
 
 As you'll learn, there are *many* ways to move elements around on a web page. New methods have been developed over the years and older things have fallen out of style. Flexbox was not always available in CSS - its debut was *revolutionary*. Learn more about the [history of flexbox](https://medium.com/@BennyOgidan/history-of-css-grid-and-css-flexbox-658ae6cfe6d2).
