@@ -1,5 +1,7 @@
 ### Introduction
 
+Yes, this is about grids!
+
 Now that you know what CSS Grid Layout is, you’ll learn how to create your own grid. This lesson will cover making a grid container, adding columns and rows, the explicit and implicit concept behind Grid and how to space out grid gaps.
 
 ### Lesson overview
